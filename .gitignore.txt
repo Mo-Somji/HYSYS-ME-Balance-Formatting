@@ -1,0 +1,8 @@
+.DS_Store
+
+# Excel autosave/lock files
+~$*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
